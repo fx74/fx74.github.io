@@ -159,12 +159,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (= 3.3.1)
-  jekyll-feed (~> 0.6)
-  minima (~> 2.0)
-
-RUBY VERSION
-   ruby 2.0.0p648
 
 BUNDLED WITH
    1.13.6
